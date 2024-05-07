@@ -1,6 +1,6 @@
 {
-    "name": "Gluo's theme",
-    "description": "Gluo's theme",
+    "name": "Gluocord",
+    "description": "An attempt to recreate the Gluo theme for pyoncord.",
     "authors": [
         {
             "name": "Aurea",
