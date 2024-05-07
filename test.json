@@ -11,7 +11,8 @@
     "BACKGROUND _PRIMARY": ["#111111", "#111111", "#111111"],
     "BACKGROUND_SECONDARY": ["#1b1c22", "#1b1c22", "#1b1c22"],
     "BACKGROUND_TERTIARY": ["#23242a", "#23242a", "#23242a"],
-    "BACKGROUND_SECONDARY_ALT": ["#292929", "#292929", "#292929"]
+    "BACKGROUND_SECONDARY_ALT": ["#292929", "#292929", "#292929"],
+    "HEADER_PRIMARY": ["#fff", "#fff", "#fff"]
   },
    "plus":{
    "version":"0",
